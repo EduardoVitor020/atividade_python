@@ -1,26 +1,26 @@
 # Atividade 05 
 # Faça um programa que receba dois números inteiros.
-# Implemente as seguintes sub-ro9nas:
+# Implemente as seguintes sub-rotinas:
 # 1. soma(int a , int b): retorna a soma de a com b
 # 2. subtração(int a, int b): retorna a diferença entre a e b
-# 3. mul;plicação(int a, int b): retorna a mul;plicação de a por b
+# 3. multiplicação(int a, int b): retorna a mul;plicação de a por b
 # 4. potencia(int a, int b): retorna o valor de a elevado a b
 
-# • Todas as sub-ro;nas devem usar somente as operações de soma e
-# subtração. Na sub-ro;na potencia, u;lize a sub-ro;na mul;plicação
+# • Todas as sub-rotina;nas devem usar somente as operações de soma e
+# subtração. Na sub-rotina;na potencia, utilize a sub-rotina multiplicação
 # criada anteriormente.
 
 # • O programa deve apresentar uma tela na qual será solicitado para o
 # usuário que entre com dois números, na sequência será solicitado ao
-# usuário que escolha o ;po operação que deseja.
+# usuário que escolha o tipo operação que deseja.
+
+
 
 def soma(a, b):
     return a + b
 
 def subtracao(a, b):
     return a - b
-
-
 
 
 def multiplicacao(a, b):
